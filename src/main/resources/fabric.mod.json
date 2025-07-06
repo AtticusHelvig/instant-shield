@@ -13,7 +13,7 @@
 	},
 	"license": "MIT",
 	"icon": "assets/instant-shield/icon.png",
-	"environment": "server",
+	"environment": "*",
 	"mixins": [
 		"instant-shield.mixins.json"
 	],
