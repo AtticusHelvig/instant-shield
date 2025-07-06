@@ -3,7 +3,7 @@
   "package": "io.github.atticushelvig.instant_shield.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "BlocksAttacksComponentMixin"
+    "LivingEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1

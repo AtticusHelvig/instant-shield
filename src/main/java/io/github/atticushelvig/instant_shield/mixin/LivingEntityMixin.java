@@ -6,7 +6,7 @@ import org.spongepowered.asm.mixin.injection.Constant;
 import org.spongepowered.asm.mixin.injection.ModifyConstant;
 
 @Mixin(LivingEntity.class)
-public abstract class BlocksAttacksComponentMixin {
+public abstract class LivingEntityMixin {
 
     @ModifyConstant(method = "getBlockingItem", constant = @Constant(intValue = 5))
     private int modifyBlockDelay(int constant) {
