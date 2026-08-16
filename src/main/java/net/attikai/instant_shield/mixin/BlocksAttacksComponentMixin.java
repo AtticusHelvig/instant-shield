@@ -1,4 +1,4 @@
-package io.github.atticushelvig.instant_shield.mixin;
+package net.attikai.instant_shield.mixin;
 
 import net.minecraft.world.item.component.BlocksAttacks;
 import org.spongepowered.asm.mixin.Mixin;

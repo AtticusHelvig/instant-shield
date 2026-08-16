@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "io.github.atticushelvig.instant_shield.mixin",
+  "package": "net.attikai.instant_shield.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "BlocksAttacksComponentMixin"
